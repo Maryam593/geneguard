@@ -1,0 +1,105 @@
+[
+  
+  {
+    "timestamp": "2025-07-26T12:30:05.439Z",
+    "history": [
+      {
+        "question": "What is your age?",
+        "answer": "23"
+      },
+      {
+        "question": "What symptoms are you experiencing today?",
+        "answer": "sadness"
+      },
+      {
+        "question": "How long have you been feeling this sadness?",
+        "answer": "this week "
+      },
+      {
+        "question": "Do you have any pre-existing medical conditions?",
+        "answer": "nope"
+      },
+      {
+        "question": "Are you experiencing any other symptoms besides sadness?",
+        "answer": "not feeling joy, exhastion"
+      }
+    ],
+    "userInitialStatement": {
+      "theory": "i feel lonliness"
+    },
+    "diagnosisHistory": [
+      {
+        "result": "Thank you for sharing this information. Wishing you better health!",
+        "timestamp": "2025-07-26T12:30:05.439Z"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-07-26T12:33:18.728Z",
+    "history": [
+      {
+        "question": "How old are you?What is your main symptom?",
+        "answer": "like throbbing pain "
+      },
+      {
+        "question": "How long have you had this throbbing pain?",
+        "answer": "after noticing its been a  week "
+      },
+      {
+        "question": "Where exactly is this throbbing pain located?",
+        "answer": "it doesnt have a single location "
+      },
+      {
+        "question": "Are you experiencing any other symptoms along with the throbbing pain?",
+        "answer": "nope "
+      },
+      {
+        "question": "Do you have any existing medical conditions?",
+        "answer": "nope "
+      }
+    ],
+    "userInitialStatement": {
+      "theory": "i feel pain in my head"
+    },
+    "diagnosisHistory": [
+      {
+        "result": "Thank you for sharing this information. Wishing you better health!",
+        "timestamp": "2025-07-26T12:33:18.728Z"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-07-27T11:21:43.346Z",
+    "history": [
+      {
+        "question": "How long have you been experiencing this?How long have you been experiencing this?",
+        "answer": "from last night"
+      },
+      {
+        "question": "What are your main symptoms?",
+        "answer": "just sneezes"
+      },
+      {
+        "question": "Do you have any other symptoms like a runny nose, itchy eyes, or a sore throat?",
+        "answer": "yes runny nose "
+      },
+      {
+        "question": "Do you have any known allergies?",
+        "answer": "yes genetical alllergy "
+      },
+      {
+        "question": "Are you currently taking any medications for your allergy or other conditions?",
+        "answer": "i m taking sedil "
+      }
+    ],
+    "userInitialStatement": {
+      "theory": "i am feeling flu and sneazes"
+    },
+    "diagnosisHistory": [
+      {
+        "result": "Thank you for sharing this information. Wishing you better health!",
+        "timestamp": "2025-07-27T11:21:43.346Z"
+      }
+    ]
+  }
+]
